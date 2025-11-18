@@ -23,14 +23,6 @@ La détection du cancer du sein est un problème de classification binaire (Canc
 - **Matplotlib**: Pour la visualisation des résultats (graphes de précision et de perte).
 - **Jupyter Notebooks / Google Colab**: Pour le développement interactif du modèle.
 
-    Ce script entraînera le réseau de neurones à l'aide de **TensorFlow** et **Keras** sur le dataset d'images.
-
-3. **Visualiser les résultats** : À la fin de l'entraînement, des courbes de précision et de perte sont affichées pour évaluer les performances du modèle.
-
-
-    Ce script implémente la version du modèle en utilisant **PyTorch**.
-
-3. **Visualiser les résultats** : Comme avec la version TensorFlow, des courbes de performance (précision, perte) seront générées pour analyser le modèle.
 
 ## Résultats
 
